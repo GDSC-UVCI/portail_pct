@@ -35,4 +35,32 @@ Nous accueillons favorablement les contributions de la communauté pour amélior
 1. Forkez le projet depuis notre dépôt GitHub.
 
 2. Clonez le dépôt forké sur votre machine locale.
+`git clone https://github.com/VotreNomUtilisateur/PortailGestionAllakro.git`
+  
+3. Créez une branche pour vos modifications.
+
+`git checkout -b ma-branche`
+
+4. Effectuez les modifications souhaitées et committez-les.
+
+`git commit -m "Description des modifications"`
+
+5. Poussez les modifications vers votre dépôt forké.
+
+`git push origin ma-branche`
+6. Créez une Pull Request vers notre dépôt principal pour que nous puissions examiner vos modifications.
+`
+Nous apprécions grandement vos contributions et vous remercions d'avance pour votre engagement envers la communauté d'Allakro.
+
+## Avertissement
+
+Ce projet est en cours de développement et peut contenir des fonctionnalités non achevées ou des bugs. Si vous rencontrez des problèmes ou avez des suggestions, n'hésitez pas à nous en informer en créant une issue sur GitHub.
+
+## Licence
+
+Ce projet est sous licence [MIT](LICENSE.md). Vous êtes libre de l'utiliser, de le modifier et de le distribuer conformément aux termes de la licence.
+
+---
+
+
 
