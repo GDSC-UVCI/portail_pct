@@ -1,0 +1,16 @@
+<!-- templates/monapp/declaration_list.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Liste des déclarations</title>
+</head>
+<body>
+    <h1>Liste des déclarations</h1>
+    <ul>
+        {% for declaration in declarations %}
+            <li>{{ declaration.nom_pr_declare }} - {{ declaration.date_deces }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
