@@ -35,7 +35,7 @@ Nous accueillons favorablement les contributions de la communauté pour amélior
 1. Forkez le projet depuis notre dépôt GitHub.
 
 2. Clonez le dépôt forké sur votre machine locale.
-`git clone https://github.com/VotreNomUtilisateur/PortailGestionAllakro.git`
+`git clone https://github.com/GDSC-UVCI/portail_pct.git`
   
 3. Créez une branche pour vos modifications.
 
