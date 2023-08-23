@@ -48,6 +48,7 @@ Nous accueillons favorablement les contributions de la communauté pour amélior
 5. Poussez les modifications vers votre dépôt forké.
 
 `git push origin ma-branche`
+
 6. Créez une Pull Request vers notre dépôt principal pour que nous puissions examiner vos modifications.
 `
 Nous apprécions grandement vos contributions et vous remercions d'avance pour votre engagement envers la communauté d'Allakro.
